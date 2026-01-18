@@ -1,6 +1,6 @@
 # i-Educar Transporte
 
-Módulo de transporte para o [i-Educar](https://github.com/portabilis/i-educar).
+Módulo de transporte para o [i-Educar](https://github.com/uaefama/i-educar).
 
 ## Instalação
 
@@ -9,7 +9,7 @@ Módulo de transporte para o [i-Educar](https://github.com/portabilis/i-educar).
 Clone este repositório a partir da raiz do i-Educar:
 
 ```bash
-git clone git@github.com:portabilis/i-educar-transport-package.git packages/portabilis/i-educar-transport-package
+git clone git@github.com:uaefama/i-educar-transport-package.git packages/uaefama/i-educar-transport-package
 ```
 
 Instale o pacote:
@@ -26,10 +26,4 @@ Execute as migrações:
 php artisan migrate
 ```
 
-## Perguntas frequentes (FAQ)
-
-Algumas perguntas aparecem recorrentemente. Olhe primeiro por aqui: [FAQ](https://github.com/portabilis/i-educar-website/blob/master/docs/faq.md).
-
 ---
-
-Powered by [Portábilis](https://portabilis.com.br/).
